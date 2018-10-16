@@ -1,2 +1,1 @@
-# hedera-protobuf-go
-hedera-protobuf in golang
+# healthbar poc
